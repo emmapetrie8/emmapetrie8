@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmapetrie8
-- 🌱 I’m currently learning Java, Python, HTML
+- 🌱 I’m currently learning Java, Python, HTML, C, C++, JavaScript
 
 
 <!---
